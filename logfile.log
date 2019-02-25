@@ -1,0 +1,573 @@
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-17T08:51:47.046Z"}
+{"level":"info","message":"Connected to mongodb://localhost/quikbo...","timestamp":"2019-02-17T08:51:48.225Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-17T09:15:40.682Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-17T09:20:41.745Z"}
+{"level":"info","message":"Connected to mongodb://localhost/quikbo...","timestamp":"2019-02-17T09:20:42.853Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-17T09:22:47.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/quikbo...","timestamp":"2019-02-17T09:22:48.725Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-17T09:28:13.569Z"}
+{"level":"info","message":"Connected to mongodb://localhost/quikbo...","timestamp":"2019-02-17T09:28:14.627Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-17T09:28:39.233Z"}
+{"level":"info","message":"Connected to mongodb://localhost/quikbo...","timestamp":"2019-02-17T09:28:40.334Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-17T10:46:15.294Z"}
+{"level":"info","message":"Connected to mongodb://localhost/quikbo...","timestamp":"2019-02-17T10:46:16.450Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:14:25.572Z"}
+{"level":"info","message":"Connected to mongodb://localhost/quikbo...","timestamp":"2019-02-24T08:14:27.802Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:14:33.871Z"}
+{"level":"info","message":"Connected to mongodb://localhost/quikbo...","timestamp":"2019-02-24T08:14:34.902Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:23:37.527Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2019-02-24T08:23:38.791Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:23:41.905Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2019-02-24T08:23:43.050Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:25:28.588Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T08:25:29.645Z"}
+{"message":"Cast to ObjectId failed for value \"location:Baran\" at path \"_id\" for model \"Property\"","stack":"CastError: Cast to ObjectId failed for value \"location:Baran\" at path \"_id\" for model \"Property\"\n    at new CastError (E:\\Quikbo\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (E:\\Quikbo\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.SchemaType.applySetters (E:\\Quikbo\\node_modules\\mongoose\\lib\\schematype.js:845:12)\n    at ObjectId.SchemaType._castForQuery (E:\\Quikbo\\node_modules\\mongoose\\lib\\schematype.js:1248:15)\n    at ObjectId.SchemaType.castForQuery (E:\\Quikbo\\node_modules\\mongoose\\lib\\schematype.js:1238:15)\n    at ObjectId.SchemaType.castForQueryWrapper (E:\\Quikbo\\node_modules\\mongoose\\lib\\schematype.js:1217:15)\n    at cast (E:\\Quikbo\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (E:\\Quikbo\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Query._castConditions (E:\\Quikbo\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (E:\\Quikbo\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\Quikbo\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (E:\\Quikbo\\node_modules\\kareem\\index.js:369:33)\n    at _combinedTickCallback (internal/process/next_tick.js:132:7)\n    at process._tickCallback (internal/process/next_tick.js:181:9)","name":"CastError","stringValue":"\"location:Baran\"","kind":"ObjectId","value":"location:Baran","path":"_id","level":"error","timestamp":"2019-02-24T08:36:05.075Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:38:12.404Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T08:38:13.476Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:41:20.318Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T08:41:21.345Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:41:28.510Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T08:41:29.539Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:41:33.078Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T08:41:34.123Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:41:38.611Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T08:41:39.658Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:43:08.213Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T08:43:09.285Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T08:54:27.609Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T08:54:28.687Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:00:31.165Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:00:32.239Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:04:28.350Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:04:29.413Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:04:53.725Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:04:54.788Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:04:58.104Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:04:59.137Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:05:16.143Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:05:17.194Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:05:27.847Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:05:29.785Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:05:30.845Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:05:34.398Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:05:35.436Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:05:41.470Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:05:42.499Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:05:45.238Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:05:46.313Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:05:56.256Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:05:57.313Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:06:23.488Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:06:24.548Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:12:38.595Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:12:39.653Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:17:41.436Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:17:42.489Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:18:30.511Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:18:32.764Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:18:33.822Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:19:39.302Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:19:40.366Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:21:30.510Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:21:31.567Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:22:04.333Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:22:05.387Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:23:18.078Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:23:19.167Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:23:29.592Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:23:30.676Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:23:34.520Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:23:35.581Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:24:18.071Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:24:19.122Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T09:28:20.015Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T09:28:21.064Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T10:03:46.290Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T10:03:48.933Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T10:03:50.001Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T10:04:02.096Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T10:04:03.188Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T10:04:20.868Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T10:04:21.922Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:45:25.488Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T11:45:26.560Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:47:14.772Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T11:47:15.846Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:47:20.257Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:47:22.923Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T11:47:23.978Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:47:30.195Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T11:47:31.274Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:47:46.308Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T11:47:47.346Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:47:54.320Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T11:47:55.377Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:54:49.287Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T11:54:50.341Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:57:14.391Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T11:57:15.463Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:57:18.137Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T11:57:19.177Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:57:21.449Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T11:57:22.504Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:59:16.685Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T11:59:25.804Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T11:59:26.862Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:09:44.597Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:09:45.668Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:09:49.619Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:09:50.671Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:09:53.884Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:09:54.941Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:09:57.596Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:09:59.519Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:10:00.560Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:13:49.374Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:13:50.433Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:14:02.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:14:03.300Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:16:15.290Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:16:16.345Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:16:24.715Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:16:25.788Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:17:14.357Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:17:15.408Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:17:21.985Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:17:23.044Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:17:37.006Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:17:38.067Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:17:53.412Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:17:55.847Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:17:56.911Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:18:02.540Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:18:03.604Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:18:11.618Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:18:12.701Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:18:19.893Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:18:20.963Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:18:24.781Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:18:25.823Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:18:42.332Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:18:44.598Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:18:45.657Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:18:49.028Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:18:50.094Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:20:14.705Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:20:15.770Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:20:20.071Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:20:21.118Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:21:04.028Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:21:05.130Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:21:13.003Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:21:15.565Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:21:18.139Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:21:19.200Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:23:47.414Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:23:48.473Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:23:59.822Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:24:00.876Z"}
+{"message":"objectid is not defined","stack":"ReferenceError: objectid is not defined\n    at router.put (E:\\Quikbo\\routes\\propertys.js:136:12)\n    at <anonymous>","level":"error","timestamp":"2019-02-24T12:24:10.335Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:24:58.139Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:24:59.200Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:25:07.259Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:25:08.315Z"}
+{"message":"Callback must be a function, got true","stack":"MongooseError: Callback must be a function, got true\n    at new MongooseError (E:\\Quikbo\\node_modules\\mongoose\\lib\\error\\mongooseError.js:13:11)\n    at Function.Model.$wrapCallback (E:\\Quikbo\\node_modules\\mongoose\\lib\\model.js:4685:11)\n    at _update (E:\\Quikbo\\node_modules\\mongoose\\lib\\model.js:3286:22)\n    at Function.update (E:\\Quikbo\\node_modules\\mongoose\\lib\\model.js:3203:10)\n    at router.put (E:\\Quikbo\\routes\\propertys.js:136:12)\n    at <anonymous>","name":"MongooseError","level":"error","timestamp":"2019-02-24T12:25:14.864Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:25:57.736Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:25:58.800Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:32:49.216Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:32:50.274Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T12:32:53.577Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T12:32:54.635Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:02:12.264Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:02:13.320Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:02:15.165Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:02:16.224Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:02:34.484Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:02:35.532Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:04:20.595Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:04:22.859Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:04:23.924Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:04:35.626Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:04:36.684Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:04:42.024Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:04:43.074Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:04:55.466Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:04:56.523Z"}
+{"message":"ObjectId is not defined","stack":"ReferenceError: ObjectId is not defined\n    at router.put (E:\\Quikbo\\routes\\propertys.js:136:12)\n    at <anonymous>","level":"error","timestamp":"2019-02-24T13:05:06.970Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:06:22.969Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:06:24.036Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:09:04.977Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:09:06.029Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:09:13.458Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:09:14.514Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:09:18.068Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:09:19.137Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:09:30.882Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:09:31.954Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:10:00.683Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:10:01.735Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:10:47.704Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:10:48.749Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:13:06.785Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:13:08.734Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:13:09.768Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:13:21.447Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:13:22.508Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:14:07.709Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:14:08.762Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:15:06.919Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:15:07.966Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:15:10.638Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:15:11.701Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:15:16.252Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:15:17.305Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:15:22.024Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:15:24.523Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:15:26.434Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:15:27.485Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:15:30.669Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:15:31.724Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:15:43.685Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:15:44.738Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:19:39.087Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:19:40.124Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:19:43.530Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:19:44.590Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:21:02.878Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:21:03.913Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:21:14.171Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:21:15.202Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:22:21.178Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:22:22.234Z"}
+{"message":"ObjectID is not defined","stack":"ReferenceError: ObjectID is not defined\n    at router.put (E:\\Quikbo\\routes\\propertys.js:135:12)\n    at <anonymous>","level":"error","timestamp":"2019-02-24T13:22:35.314Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:23:04.100Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:23:05.147Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:23:08.365Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:23:14.217Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:23:15.276Z"}
+{"message":"Cast to ObjectId failed for value \"Hotel Radhika\" at path \"_id\" for model \"Property\"","stack":"CastError: Cast to ObjectId failed for value \"Hotel Radhika\" at path \"_id\" for model \"Property\"\n    at new CastError (E:\\Quikbo\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (E:\\Quikbo\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.SchemaType.applySetters (E:\\Quikbo\\node_modules\\mongoose\\lib\\schematype.js:845:12)\n    at ObjectId.SchemaType._castForQuery (E:\\Quikbo\\node_modules\\mongoose\\lib\\schematype.js:1248:15)\n    at ObjectId.SchemaType.castForQuery (E:\\Quikbo\\node_modules\\mongoose\\lib\\schematype.js:1238:15)\n    at ObjectId.SchemaType.castForQueryWrapper (E:\\Quikbo\\node_modules\\mongoose\\lib\\schematype.js:1217:15)\n    at cast (E:\\Quikbo\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (E:\\Quikbo\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Query._castConditions (E:\\Quikbo\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (E:\\Quikbo\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\Quikbo\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (E:\\Quikbo\\node_modules\\kareem\\index.js:369:33)\n    at _combinedTickCallback (internal/process/next_tick.js:132:7)\n    at process._tickCallback (internal/process/next_tick.js:181:9)","name":"CastError","stringValue":"\"Hotel Radhika\"","kind":"ObjectId","value":"Hotel Radhika","path":"_id","level":"error","timestamp":"2019-02-24T13:23:43.788Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:24:13.856Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:24:14.913Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:24:20.981Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:24:22.041Z"}
+{"message":"property is not defined","stack":"ReferenceError: property is not defined\n    at router.put (E:\\Quikbo\\routes\\propertys.js:142:10)\n    at E:\\Quikbo\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (E:\\Quikbo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\Quikbo\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\Quikbo\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at E:\\Quikbo\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (E:\\Quikbo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at E:\\Quikbo\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (E:\\Quikbo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\Quikbo\\node_modules\\express\\lib\\router\\index.js:335:12)","level":"error","timestamp":"2019-02-24T13:24:29.026Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:25:27.778Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:25:28.811Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:26:59.873Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:27:02.027Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:27:03.085Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:27:10.172Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:27:13.155Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:27:14.224Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:27:18.514Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:27:19.568Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:27:24.725Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:27:25.758Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:28:10.168Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:28:11.221Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:28:14.951Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:28:15.986Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:28:27.953Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:28:29.011Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:29:49.937Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:29:50.998Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:29:54.805Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:29:55.863Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:34:23.084Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:34:24.134Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:34:44.947Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:34:46.003Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:42:11.403Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:42:12.460Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:42:16.662Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:42:17.737Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:42:19.722Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:42:21.328Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:42:22.377Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:42:26.410Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:42:27.453Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:42:30.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:42:31.944Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:42:39.085Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:42:40.162Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:42:43.951Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:42:44.991Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:43:07.992Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:43:09.040Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:43:22.006Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:43:23.064Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:43:38.508Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:43:39.565Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:47:34.130Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:47:35.206Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:48:10.258Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:48:12.857Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:48:13.897Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:49:28.124Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:49:29.173Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T13:52:40.902Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T13:52:41.949Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:06:28.211Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:06:30.518Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:06:31.559Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:06:41.504Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:06:42.573Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:06:52.343Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:06:53.408Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:07:00.026Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:07:01.070Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:09:43.765Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:09:44.819Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:09:52.145Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:09:53.198Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:10:00.199Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:10:01.260Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:10:03.413Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:10:04.467Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:10:09.507Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:10:11.812Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:10:12.871Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:10:19.094Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:10:20.142Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:11:31.292Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:11:32.344Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:19:18.396Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:19:19.446Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:21:16.312Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:21:17.345Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:28:24.323Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:28:25.357Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:30:38.082Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:30:39.146Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:34:25.345Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:34:26.410Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:38:32.637Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:38:33.691Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:38:37.602Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:38:38.668Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:38:43.054Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:38:44.083Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:39:06.995Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:39:08.060Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:39:09.947Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:39:11.012Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:39:28.737Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:39:29.793Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:39:41.275Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:39:42.333Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:39:56.528Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:39:57.594Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:40:17.837Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:40:18.897Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:42:41.461Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:42:42.514Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:48:36.336Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:48:37.404Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:52:34.728Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:52:35.759Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:53:34.143Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:53:35.174Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:54:38.641Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:54:39.696Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-24T14:54:56.312Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-24T14:54:57.365Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T06:54:37.823Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T06:54:38.892Z"}
+{"message":"Cast to ObjectId failed for value \"1234\" at path \"_id\" for model \"Offer\"","stack":"CastError: Cast to ObjectId failed for value \"1234\" at path \"_id\" for model \"Offer\"\n    at new CastError (F:\\quikbo\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (F:\\quikbo\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.SchemaType.applySetters (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:845:12)\n    at ObjectId.SchemaType._castForQuery (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:1248:15)\n    at ObjectId.SchemaType.castForQuery (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:1238:15)\n    at ObjectId.SchemaType.castForQueryWrapper (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:1217:15)\n    at cast (F:\\quikbo\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (F:\\quikbo\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Query._castConditions (F:\\quikbo\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (F:\\quikbo\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (F:\\quikbo\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (F:\\quikbo\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"1234\"","kind":"ObjectId","value":"1234","path":"_id","level":"error","timestamp":"2019-02-25T07:06:30.695Z"}
+{"message":"Cast to ObjectId failed for value \"dayclose\" at path \"_id\" for model \"Property\"","stack":"CastError: Cast to ObjectId failed for value \"dayclose\" at path \"_id\" for model \"Property\"\n    at new CastError (F:\\quikbo\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (F:\\quikbo\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.SchemaType.applySetters (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:845:12)\n    at ObjectId.SchemaType._castForQuery (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:1248:15)\n    at ObjectId.SchemaType.castForQuery (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:1238:15)\n    at ObjectId.SchemaType.castForQueryWrapper (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:1217:15)\n    at cast (F:\\quikbo\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (F:\\quikbo\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at castQuery (F:\\quikbo\\node_modules\\mongoose\\lib\\query.js:4192:18)\n    at model.Query.Query._findAndModify (F:\\quikbo\\node_modules\\mongoose\\lib\\query.js:3204:23)\n    at model.Query.<anonymous> (F:\\quikbo\\node_modules\\mongoose\\lib\\query.js:2831:8)\n    at model.Query._wrappedThunk [as _findOneAndUpdate] (F:\\quikbo\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (F:\\quikbo\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"dayclose\"","kind":"ObjectId","value":"dayclose","path":"_id","level":"error","timestamp":"2019-02-25T07:36:39.394Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T07:38:25.149Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T07:38:26.192Z"}
+{"message":"Cast to ObjectId failed for value \"dayclose\" at path \"_id\" for model \"Property\"","stack":"CastError: Cast to ObjectId failed for value \"dayclose\" at path \"_id\" for model \"Property\"\n    at new CastError (F:\\quikbo\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (F:\\quikbo\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.SchemaType.applySetters (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:845:12)\n    at ObjectId.SchemaType._castForQuery (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:1248:15)\n    at ObjectId.SchemaType.castForQuery (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:1238:15)\n    at ObjectId.SchemaType.castForQueryWrapper (F:\\quikbo\\node_modules\\mongoose\\lib\\schematype.js:1217:15)\n    at cast (F:\\quikbo\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (F:\\quikbo\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at castQuery (F:\\quikbo\\node_modules\\mongoose\\lib\\query.js:4192:18)\n    at model.Query.Query._findAndModify (F:\\quikbo\\node_modules\\mongoose\\lib\\query.js:3204:23)\n    at model.Query.<anonymous> (F:\\quikbo\\node_modules\\mongoose\\lib\\query.js:2831:8)\n    at model.Query._wrappedThunk [as _findOneAndUpdate] (F:\\quikbo\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (F:\\quikbo\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"dayclose\"","kind":"ObjectId","value":"dayclose","path":"_id","level":"error","timestamp":"2019-02-25T07:38:32.923Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:41:15.461Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:41:16.488Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:43:20.801Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:43:22.990Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:43:24.016Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:43:25.756Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:43:26.781Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:44:29.973Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:44:30.997Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:44:50.392Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:44:51.417Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:49:26.639Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:49:27.668Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:50:01.441Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:50:02.894Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:50:03.939Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:50:07.348Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:50:08.388Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:54:21.432Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:54:22.458Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:54:43.783Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:54:44.816Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:56:18.038Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:56:19.059Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:56:26.182Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:56:27.210Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:56:29.744Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:56:30.788Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T08:56:36.556Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T08:56:37.579Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:01:27.983Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:01:29.023Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:02:02.181Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:02:06.129Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:02:07.160Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:02:09.761Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:02:10.795Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:03:00.831Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:03:03.404Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:03:04.433Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:05:30.588Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:05:31.609Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:05:52.686Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:05:53.710Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:09:48.311Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:09:49.334Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:11:52.078Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:11:53.100Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:12:12.152Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:12:13.192Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:12:20.467Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:12:21.491Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:12:44.334Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:12:45.356Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:12:46.623Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:12:47.648Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:12:50.530Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:12:51.571Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:13:55.477Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:13:56.498Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:14:06.768Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:14:07.809Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:14:38.766Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:14:39.788Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:14:44.590Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:14:45.631Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:15:40.692Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:15:41.736Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:16:36.928Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:16:37.969Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:16:45.799Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:16:46.824Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:17:30.682Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:17:31.705Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:17:35.008Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:17:36.846Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:17:37.873Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:17:39.042Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:17:40.066Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:18:05.076Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:18:06.102Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:19:13.738Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:19:14.782Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:19:23.737Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:19:24.779Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:19:36.749Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:19:37.791Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:19:44.264Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:19:45.307Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:20:00.454Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:20:02.649Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:20:03.689Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:20:05.799Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:20:06.840Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:21:02.886Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:21:03.910Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:21:15.527Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:21:16.941Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:21:17.981Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:21:21.711Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:21:22.739Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:21:24.946Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:21:25.982Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:21:27.791Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:21:29.493Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:21:30.528Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:22:54.586Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:22:55.628Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:24:16.589Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:24:17.632Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:25:42.897Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:25:43.940Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:26:08.562Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:26:15.177Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:26:16.213Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:26:29.455Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:26:30.961Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:26:32.520Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:26:33.686Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:26:34.706Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:27:11.509Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:27:12.548Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:27:14.339Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:27:21.129Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:27:22.555Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:27:23.595Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:27:28.625Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:27:29.664Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:27:31.135Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:27:32.171Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:27:48.205Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:27:49.232Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:27:57.984Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:27:59.027Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:28:05.273Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:28:06.312Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:28:10.075Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:28:11.116Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:28:16.838Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:28:17.857Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:28:30.170Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:28:31.209Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:29:30.441Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:29:36.027Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:29:37.062Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:29:41.487Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:29:42.513Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:29:44.960Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:29:46.822Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:29:47.861Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:29:52.258Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:29:53.298Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:40:19.626Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:40:20.670Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:40:21.795Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:40:22.836Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:40:33.305Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:40:34.347Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:40:36.521Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:40:37.541Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:40:39.368Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:40:40.402Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:47:11.543Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:47:12.567Z"}
+{"message":"avlclass is not defined","stack":"ReferenceError: avlclass is not defined\n    at propertys.forEach.property (F:\\quikbo\\routes\\dayclose.js:13:19)\n    at Array.forEach (<anonymous>)\n    at router.put (F:\\quikbo\\routes\\dayclose.js:9:15)","level":"error","timestamp":"2019-02-25T09:48:56.989Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:49:54.690Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:49:55.730Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:49:57.527Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:49:58.563Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:51:56.899Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:51:57.949Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:52:00.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:52:01.534Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:57:41.209Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:57:42.250Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:59:16.074Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:59:17.460Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:59:18.487Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T09:59:37.680Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T09:59:38.708Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T10:01:00.759Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T10:01:01.801Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T10:03:56.336Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T10:03:57.355Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T10:05:22.597Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T10:05:23.621Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T10:07:48.010Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T10:07:49.041Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T10:10:07.001Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T10:10:08.346Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T10:10:09.386Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-02-25T10:10:23.943Z"}
+{"level":"info","message":"Connected to mongodb://localhost/Atithi...","timestamp":"2019-02-25T10:10:24.963Z"}
