@@ -642,3 +642,429 @@
 {"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-28T15:14:31.109Z"}
 {"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-28T15:15:12.687Z"}
 {"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-28T15:15:14.738Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-28T15:17:51.917Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-28T15:17:53.965Z"}
+{"message":"Unexpected token } in JSON at position 1790","stack":"SyntaxError: Unexpected token } in JSON at position 1790\n    at JSON.parse (<anonymous>)\n    at parse (E:\\vmouserver\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at E:\\vmouserver\\node_modules\\body-parser\\lib\\read.js:121:18\n    at invokeCallback (E:\\vmouserver\\node_modules\\raw-body\\index.js:224:16)\n    at done (E:\\vmouserver\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (E:\\vmouserver\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:333:22)\n    at endReadableNT (_stream_readable.js:1201:12)\n    at processTicksAndRejections (internal/process/task_queues.js:84:21)","expose":true,"statusCode":400,"status":400,"body":"{\r\n        \"batchcode\": \"bap101a\",\r\n        \"userid\": \"5ea83b1cb27f7931084d6f5a\",\r\n        \"type\": \"marks1\",\r\n        \"exam\": \"DEC19\",\r\n        \"pcode\": \"BAP\",\r\n        \"ccode\": \"BAP-101\",\r\n        \"ptype\": \"TE\",\r\n        \"totalcopies\": 10,\r\n        \"status\": \"saved\",\r\n        \"marks\": [\r\n            {\r\n                \r\n                \"controlno\": 191001,\r\n                \"award\": 20,\r\n                \"status\": \"  \"\r\n            },\r\n            {\r\n                \r\n                \"controlno\": 191002,\r\n                \"award\": 30,\r\n                \"status\": \"  \"\r\n            },\r\n            {\r\n                \r\n                \"controlno\": 191003,\r\n                \"award\": 18,\r\n                \"status\": \"  \"\r\n            },\r\n            {\r\n                \r\n                \"controlno\": 191004,\r\n                \"award\": 0,\r\n                \"status\": \"Ab\"\r\n            },\r\n            {\r\n               \r\n                \"controlno\": 191005,\r\n                \"award\": 0,\r\n                \"status\": \"ZE\"\r\n            },\r\n            {\r\n                \r\n                \"controlno\": 191006,\r\n                \"award\": 0,\r\n                \"status\": \"  \"\r\n            },\r\n            {\r\n                \r\n                \"controlno\": 191007,\r\n                \"award\": 0,\r\n                \"status\": \"  \"\r\n            },\r\n            {\r\n                \r\n                \"controlno\": 191008,\r\n                \"award\": 0,\r\n                \"status\": \"  \"\r\n            },\r\n            {\r\n               \r\n                \"controlno\": 191009,\r\n                \"award\": 0,\r\n                \"status\": \"  \"\r\n            },\r\n            {\r\n           \r\n                \"controlno\": 191010,\r\n                \"award\": 0,\r\n                \"status\": \"  \"\r\n            }\r\n        ],\r\n       \r\n    }","type":"entity.parse.failed","level":"error","timestamp":"2020-04-28T15:33:45.445Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T02:57:46.023Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T02:57:48.084Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T02:59:38.607Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T02:59:40.648Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T02:59:46.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T02:59:48.345Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T02:59:53.273Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T02:59:55.405Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T02:59:57.483Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T02:59:59.382Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:00:01.100Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T03:00:03.154Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:00:41.586Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:00:45.815Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:00:53.326Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:00:55.654Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:00:57.689Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T03:00:59.776Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:01:02.488Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:01:06.937Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T03:01:09.016Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:01:14.084Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T03:01:16.158Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:01:23.980Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:01:25.880Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T03:01:27.943Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:06:05.129Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T03:06:07.215Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:06:11.047Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T03:06:13.106Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:06:14.388Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T03:06:16.442Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T03:43:57.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T03:43:59.164Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:01:33.686Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:01:35.749Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:06:42.611Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:06:44.682Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:07:14.223Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:07:16.276Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:07:18.236Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:07:20.272Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:07:28.793Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:07:31.516Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:07:33.104Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:07:35.175Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:07:46.970Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:07:49.517Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:07:51.588Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:02.698Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:08:04.762Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:14.288Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:16.967Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:08:19.043Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:21.693Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:08:23.762Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:28.412Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:29.765Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:32.509Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:34.097Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:08:36.159Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:50.961Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:52.490Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:53.639Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:08:55.716Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:08:57.993Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:09:00.876Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:09:02.912Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:09:05.717Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:09:07.765Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:09:09.018Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:09:11.071Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:09:28.873Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:09:30.938Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:18:06.352Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:18:08.384Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:18:12.307Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:18:17.462Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:18:19.517Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:18:20.642Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:18:22.692Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:19:22.351Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:19:24.412Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:19:59.789Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:20:01.851Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:28:35.408Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:28:37.472Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:29:55.144Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:29:56.487Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:29:58.557Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:30:23.318Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:30:25.382Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:32:19.221Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:32:21.267Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:32:45.140Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:32:47.202Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:34:49.403Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:34:51.465Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T04:35:02.366Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T04:35:04.416Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T11:26:02.681Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T11:26:04.753Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T11:42:52.281Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T11:42:54.739Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T11:42:57.424Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T11:42:59.496Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T12:19:13.147Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T12:19:15.217Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T12:59:05.662Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T12:59:07.736Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:00:27.034Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:00:29.109Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:05:56.333Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:05:58.195Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:06:00.243Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:06:03.043Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:06:05.117Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:06:28.629Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:06:30.700Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:06:34.550Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:06:36.616Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:06:37.965Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:06:39.354Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:06:41.425Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:06:44.581Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:06:47.589Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:06:49.645Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:10:43.175Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:10:45.246Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:10:52.187Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:10:54.256Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:10:56.962Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:10:59.031Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:11:01.341Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:11:03.410Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:13:29.016Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:13:33.331Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:13:35.418Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:13:37.767Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:13:39.727Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:13:41.796Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:14:27.147Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:14:29.226Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:14:34.243Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:14:36.307Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:15:04.649Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:15:06.032Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:15:08.110Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:15:12.757Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:15:14.826Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:15:17.331Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:15:19.406Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T13:15:27.841Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T13:15:29.912Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:25:41.513Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:25:43.599Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:25:53.184Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:25:55.273Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:26:01.865Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:26:03.772Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:26:05.836Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:26:12.252Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:26:14.324Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:26:27.109Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:26:29.172Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:26:32.310Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:26:34.387Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:26:40.254Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:26:42.326Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:27:05.502Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:27:07.578Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:27:15.491Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:27:17.572Z"}
+{"message":"validateMarks is not defined","stack":"ReferenceError: validateMarks is not defined\n    at E:\\vmouserver\\routes\\batch.js:35:21\n    at E:\\vmouserver\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\vmouserver\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\vmouserver\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (E:\\vmouserver\\middleware\\validateObjectId.js:7:3)\n    at E:\\vmouserver\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\vmouserver\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\vmouserver\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (E:\\vmouserver\\middleware\\auth.js:11:5)\n    at E:\\vmouserver\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\vmouserver\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\vmouserver\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\vmouserver\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at E:\\vmouserver\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\vmouserver\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\vmouserver\\node_modules\\express\\lib\\router\\index.js:281:22","level":"error","timestamp":"2020-04-29T15:27:35.770Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:28:49.551Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:28:51.618Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:32:06.629Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:32:08.713Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:32:12.181Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:32:14.426Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:32:16.506Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:32:26.804Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:32:30.033Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:32:32.093Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:37:52.969Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:37:55.053Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T15:44:41.104Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T15:44:43.184Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:34:01.041Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T16:34:03.077Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:35:31.711Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T16:35:33.780Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:44:51.593Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T16:44:53.657Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:45:04.592Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:45:06.127Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T16:45:08.190Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:45:14.355Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:45:16.401Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:45:18.896Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T16:45:20.954Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:45:24.397Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T16:45:26.481Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:46:01.729Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T16:46:03.791Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:47:11.815Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T16:47:13.861Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:51:05.925Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T16:51:07.971Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T16:57:41.397Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T16:57:43.438Z"}
+{"message":"Cast to string failed for value \"{ status: 'created' }\" at path \"status\"","stack":"CastError: Cast to string failed for value \"{ status: 'created' }\" at path \"status\"\n    at new CastError (E:\\vmouserver\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at SchemaString.cast (E:\\vmouserver\\node_modules\\mongoose\\lib\\schema\\string.js:553:11)\n    at SchemaString.SchemaType.applySetters (E:\\vmouserver\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at SchemaString.SchemaType._castForQuery (E:\\vmouserver\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at SchemaString.castForQuery (E:\\vmouserver\\node_modules\\mongoose\\lib\\schema\\string.js:609:15)\n    at SchemaString.SchemaType.castForQueryWrapper (E:\\vmouserver\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at castUpdateVal (E:\\vmouserver\\node_modules\\mongoose\\lib\\helpers\\query\\castUpdate.js:451:19)\n    at walkUpdatePath (E:\\vmouserver\\node_modules\\mongoose\\lib\\helpers\\query\\castUpdate.js:190:22)\n    at castUpdate (E:\\vmouserver\\node_modules\\mongoose\\lib\\helpers\\query\\castUpdate.js:80:18)\n    at model.Query._castUpdate (E:\\vmouserver\\node_modules\\mongoose\\lib\\query.js:4374:10)\n    at castDoc (E:\\vmouserver\\node_modules\\mongoose\\lib\\query.js:4402:18)\n    at model.Query.Query._findAndModify (E:\\vmouserver\\node_modules\\mongoose\\lib\\query.js:3367:19)\n    at model.Query.<anonymous> (E:\\vmouserver\\node_modules\\mongoose\\lib\\query.js:2928:8)\n    at model.Query._wrappedThunk [as _findOneAndUpdate] (E:\\vmouserver\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at E:\\vmouserver\\node_modules\\mongoose\\node_modules\\kareem\\index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"CastError","stringValue":"\"{ status: 'created' }\"","kind":"string","value":{"status":"created"},"path":"status","level":"error","timestamp":"2020-04-29T16:57:47.882Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:00:25.338Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T17:00:27.384Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:12:29.839Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T17:12:31.903Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:21:15.718Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T17:21:17.761Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:21:19.414Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T17:21:21.471Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:21:43.609Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T17:21:45.677Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:22:08.766Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:22:11.255Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T17:22:13.348Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:22:18.184Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T17:22:20.236Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:23:51.271Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T17:23:53.339Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:29:13.962Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T17:29:16.015Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:33:27.333Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:33:29.094Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T17:33:31.157Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:37:04.101Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:37:06.081Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-29T17:37:07.848Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-29T17:37:09.889Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T02:45:20.845Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T02:45:22.927Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:39:41.289Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T03:39:43.372Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:39:45.605Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:39:48.227Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T03:39:50.273Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:49:40.541Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:49:43.594Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T03:49:45.645Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:50:01.314Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T03:50:03.411Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:50:06.236Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T03:50:08.309Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:50:13.316Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:50:14.754Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T03:50:16.820Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:50:34.283Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T03:50:36.372Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:50:38.591Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T03:50:40.662Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:50:43.106Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T03:50:46.228Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T03:50:48.298Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:38:27.720Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:38:29.764Z"}
+{"message":"attempts is not defined","stack":"ReferenceError: attempts is not defined\n    at E:\\vmouserver\\routes\\batch.js:21:17\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","level":"error","timestamp":"2020-04-30T12:40:29.651Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:40:57.433Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:40:59.513Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:41:09.239Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:41:11.307Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:41:13.849Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:41:17.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:41:19.307Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:41:23.649Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:41:25.684Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:42:25.525Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:42:27.611Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:42:28.964Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:42:30.603Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:42:32.461Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:42:35.168Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:42:37.240Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:43:09.859Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:43:11.927Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:45:59.636Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:46:01.712Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:47:45.735Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:47:47.804Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:48:17.321Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:48:19.392Z"}
+{"message":"Cannot read property 'attempts' of undefined","stack":"TypeError: Cannot read property 'attempts' of undefined\n    at E:\\vmouserver\\routes\\batch.js:19:24\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","level":"error","timestamp":"2020-04-30T12:48:23.562Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:48:55.510Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:48:57.553Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:49:24.092Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:49:26.163Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:51:05.421Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:51:07.477Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:51:52.565Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:51:54.614Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:52:59.660Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:53:01.791Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:53:08.488Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:53:10.579Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:54:13.495Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:54:15.527Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:54:22.044Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:54:24.142Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:54:31.355Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:54:33.344Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:54:35.823Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:54:37.507Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:54:39.574Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:54:46.389Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:54:48.466Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:54:49.585Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:54:51.649Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:54:57.086Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:54:59.149Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:55:24.735Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:55:26.819Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:55:35.775Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:55:37.837Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:56:04.384Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:56:06.455Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:57:04.824Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:57:06.230Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:57:08.287Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:57:16.585Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:57:18.650Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:57:25.802Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:57:27.858Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:57:54.751Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:57:57.108Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:57:59.177Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T12:59:31.110Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T12:59:33.161Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:03:40.519Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:03:42.580Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:04:07.127Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:04:09.197Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:05:48.635Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:05:50.702Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:07:47.647Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:07:49.716Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:07:54.628Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:07:56.701Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:08:16.053Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:08:18.110Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:10:42.487Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:10:44.563Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:10:50.120Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:10:52.197Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:10:55.534Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:10:57.023Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:10:59.088Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:12:04.963Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:12:07.037Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:15:32.705Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:15:34.781Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:16:27.276Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:16:29.348Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:30:26.077Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:30:28.139Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:32:02.835Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:32:04.914Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:39:36.155Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:39:38.187Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T13:41:27.013Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T13:41:29.060Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:01:10.311Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:01:12.382Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:05:01.503Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:05:03.552Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:05:07.711Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:05:09.776Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:05:18.597Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:05:20.675Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:05:49.589Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:05:51.633Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:05:54.231Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:05:56.319Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:05:59.253Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:06:03.044Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:06:05.110Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:16:32.618Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:16:34.686Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:16:37.178Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:16:39.232Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:17:20.642Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:17:22.710Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:19:18.450Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:19:20.516Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:19:25.909Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:19:27.984Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:20:29.278Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:20:31.347Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:20:58.630Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:21:00.712Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:21:26.299Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:21:28.354Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:22:41.926Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:22:43.993Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:23:06.454Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:23:08.530Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:29:33.518Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:29:35.585Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:29:39.342Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:29:41.390Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:30:09.375Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:30:11.449Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:30:19.696Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:30:21.774Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:30:28.883Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:30:30.953Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:31:14.133Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:31:16.181Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:31:26.296Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:31:28.366Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:31:32.007Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:31:34.066Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:33:58.382Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:34:00.456Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-30T15:34:01.892Z"}
+{"level":"info","message":"Connected to mongodb://localhost/evaluation...","timestamp":"2020-04-30T15:34:03.948Z"}
