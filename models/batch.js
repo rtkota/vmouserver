@@ -70,7 +70,7 @@ const Batch = mongoose.model('Batch', new mongoose.Schema({
     required: true
   },
   marks: [new mongoose.Schema({
-    controlno: Number,
+    controlno: String,
     award: Number,
     status: String})],
 }));
@@ -91,7 +91,7 @@ function validateBatch(batch) {
     dtsubmitted:Joi.date(),
     type:Joi.string().allow(['marks1','marks2','reval1','reval2']).required(),
     marks:Joi.array().items(Joi.object({
-      controlno:Joi.number().required(),
+      controlno:Joi.string().required(),
       award:Joi.number().required(),
       status:Joi.string().allow(['  ','Ab','UM','ZE']).required()
     }))
@@ -103,7 +103,7 @@ function validateBatchMarks(batch) {
   const schema = {
     status: Joi.string().allow(['created','saved','submitted']).required(),
     marks:Joi.array().items(Joi.object({
-      controlno:Joi.number().required(),
+      controlno:Joi.string().required(),
       award:Joi.number().required(),
       status:Joi.string().allow(['  ','Ab','UM','ZE']).required()
     }))
