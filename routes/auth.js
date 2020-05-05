@@ -9,7 +9,7 @@ const router = express.Router();
 router.post('/', async (req, res) => {
 
   const { error } = validate(req.body); 
-  if (error) return res.status(400).send(error.details[0].message+" xx");
+  if (error) return res.status(400).send(error.details[0].message);
 
   let user = await User.findOne({ email: req.body.email });
   if (!user) return res.status(400).send('Invalid email or password.');
@@ -20,7 +20,8 @@ router.post('/', async (req, res) => {
   const token = user.generateAuthToken();
   const usr = {
     userId:user._id,
-    token:token
+    token:token,
+    uimage:user.uimage
   };
   
   res.send(usr);
@@ -29,7 +30,8 @@ router.post('/', async (req, res) => {
 function validate(req) {
   const schema = {
     email: Joi.string().min(5).max(255).required().email(),
-    password: Joi.string().min(5).max(255).required()
+    password: Joi.string().min(5).max(255).required(),
+    uimage:Joi.binary()
   };
 
   return Joi.validate(req, schema);
