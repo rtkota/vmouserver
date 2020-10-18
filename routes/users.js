@@ -19,10 +19,10 @@ router.post('/', async (req, res) => {
 
   if (error) return res.status(400).send(error.details[0].message);
   
-  let user = await User.findOne({ email: req.body.email });
+  let user = await User.findOne({ userid: req.body.userid });
   if (user) return res.status(400).send('User already registered.');
 
-  user = new User(_.pick(req.body, ['email', 'password','uimage']));
+  user = new User(_.pick(req.body, ['userid', 'password','uimage']));
    
    const salt = await bcrypt.genSalt(10);
   user.password = await bcrypt.hash(user.password, salt);
@@ -30,7 +30,7 @@ router.post('/', async (req, res) => {
   await user.save();
 
   const token = user.generateAuthToken();
-  res.header('x-auth-token', token).send(_.pick(user, ['_id', 'email','uimage']));
+  res.header('x-auth-token', token).send(_.pick(user, ['_id', 'userid','uimage']));
 });
 
 module.exports = router; 

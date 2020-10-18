@@ -1,5 +1,8 @@
 const express = require('express');
-const batch = require('../routes/batch');
+const receipt = require('../routes/receipt');
+const incentive = require('../routes/incentive');
+const planning = require('../routes/planning');
+const scheme = require('../routes/scheme');
 const users = require('../routes/users');
 const auth = require('../routes/auth');
 const error = require('../middleware/error');
@@ -13,7 +16,10 @@ module.exports = function(app) {
     next();
   });
   app.use(express.json());
-  app.use('/api/batch', batch);
+  app.use('/api/receipt', receipt);
+  app.use('/api/incentive', incentive);
+  app.use('/api/planning', planning);
+  app.use('/api/scheme', scheme);
   app.use('/api/users', users);
   app.use('/api/auth', auth);
 
