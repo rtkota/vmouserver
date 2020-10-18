@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "",
-  "db": "mongodb://localhost/evaluation"
+  "db": "mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority"
 }
