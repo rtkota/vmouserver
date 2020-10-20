@@ -6,21 +6,21 @@ const mongoose = require('mongoose');
 const express = require('express');
 const router = express.Router();
 
-router.post('/', async (req, res) => {
+router.get('/', async (req, res) => {
 
   const { error } = validate(req.body); 
   if (error) return res.status(400).send(error.details[0].message);
 
   let user = await User.findOne({ userid: req.body.userid });
-  if (!user) return res.status(400).send('Invalid user or password.');
+  if (!user) return res.status(400).send('Invalid user');
 
   const validPassword = await bcrypt.compare(req.body.password, user.password);
-  if (!validPassword) return res.status(400).send('Invalid email or password.');
+  if (!validPassword) return res.status(400).send('Invalid  password.');
 
   const token = user.generateAuthToken();
   const usr = {
     userId:user._id,
-    userid:user.useid,
+    userid:user.userid,
     token:token,
     uimage:user.uimage
   };

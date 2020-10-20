@@ -138,7 +138,41 @@ function validateUser(user) {
 
   return Joi.validate(user, schema);
 }
-//,
- //   u
+function validateUserPut(user) {
+  const schema = {
+    userid: Joi.string().min(6).max(6).required(),
+    sponsorid: Joi.string().min(6).max(6).required(),
+    username: Joi.string().min(2).max(255).required(),
+    fname: Joi.string(),
+    dob:Joi.date(),
+    status: Joi.string().allow(['active','inactive']).required(),
+    phone: Joi.string().min(7).max(255).required(),
+    emailid:Joi.string().min(3).max(255),
+    address:Joi.string().min(2).max(1024),
+    city: Joi.string().min(2).max(255).required(),
+    aadharno: Joi.string().min(12).max(12),
+    panno: Joi.string().min(10).max(10).required(),
+    planning: Joi.string(),
+    plotno: Joi.string(),
+    bankinfo:Joi.object({
+      acno:Joi.string(),
+      bankname:Joi.string(),
+      branch:Joi.string(),
+      ifsccode:Joi.string(),
+      holdername:Joi.string()
+    }),
+    nominee:Joi.object({
+      name:Joi.string(),
+      relation:Joi.string(),
+      dob:Joi.date()
+    }),
+    aadharimage:Joi.binary(),
+    uimage:Joi.binary()
+  };
+
+  return Joi.validate(user, schema);
+
+}
 exports.User = User; 
 exports.validate = validateUser;
+exports.validateUserPut = validateUserPut;

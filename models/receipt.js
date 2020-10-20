@@ -4,7 +4,6 @@ const mongoose = require('mongoose');
 const Receipt = mongoose.model('Receipt', new mongoose.Schema({
   recno: {
     type:Number,
-    required: true,
     unique:true
   },
   userid: {
@@ -34,9 +33,9 @@ const Receipt = mongoose.model('Receipt', new mongoose.Schema({
 
 function validateReceipt(receipt) {
   const schema = {
-    recno: Joi.number().required(),
-    userid: Joi.string.required(),
-    date: Joi.date.required(),
+    recno: Joi.number(),
+    userid: Joi.string().required(),
+    date: Joi.date().required(),
     amt: Joi.number().required(),
     mode:Joi.string().allow(['Cash','Cheque','DD','NEFT','RTGS','IMPS','UPI']).required(),
     refno:Joi.string(),

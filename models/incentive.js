@@ -12,9 +12,7 @@ const Incentive = mongoose.model('Incentive', new mongoose.Schema({
   },
   type: {
     type: String,
-    required: true,
-    minlength: 6,
-    maxlength: 6
+    required: true
   },
   recno: {
     type: Number,
@@ -58,7 +56,6 @@ function validateIncentive(incentive) {
     status:Joi.string().allow(['Due','Paid']).required(),
     paydate:Joi.date()
     }
-  };
 
   return Joi.validate(incentive, schema);
 }  
