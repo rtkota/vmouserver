@@ -377,3 +377,351 @@
 {"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-19T15:22:35.047Z"}
 {"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-19T18:25:01.264Z"}
 {"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-19T18:25:01.665Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:12:46.098Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:12:46.529Z"}
+{"message":"Customer is not defined","stack":"ReferenceError: Customer is not defined\n    at E:\\dhruvback\\routes\\receipt.js:119:22\n    at E:\\dhruvback\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\dhruvback\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\dhruvback\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\dhruvback\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at E:\\dhruvback\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\dhruvback\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at E:\\dhruvback\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\dhruvback\\node_modules\\express\\lib\\router\\layer.js:95:5)","level":"error","timestamp":"2020-10-20T13:18:51.541Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:19:54.433Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:19:54.857Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:19:55.977Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:19:56.390Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:20:16.681Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:20:17.095Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:20:21.270Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:20:21.732Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:20:26.143Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:20:26.554Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:20:32.525Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:20:32.948Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:20:37.685Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:20:38.087Z"}
+{"message":"date is not defined","stack":"ReferenceError: date is not defined\n    at E:\\dhruvback\\routes\\receipt.js:127:72\n    at E:\\dhruvback\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\dhruvback\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\dhruvback\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\dhruvback\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at E:\\dhruvback\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\dhruvback\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at E:\\dhruvback\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\dhruvback\\node_modules\\express\\lib\\router\\layer.js:95:5)","level":"error","timestamp":"2020-10-20T13:20:48.724Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:21:21.637Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:21:22.029Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:22:03.869Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:22:04.291Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:25:43.663Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:25:44.082Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:26:02.153Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:26:02.576Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:26:06.552Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:26:08.380Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:26:08.756Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:28:54.116Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:28:54.596Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:29:05.729Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:29:06.143Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:29:36.424Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:29:36.839Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:29:39.170Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:29:39.548Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:34:43.588Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:34:44.003Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:34:53.269Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:34:53.660Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:34:55.096Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:34:55.405Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:34:57.481Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:34:57.832Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:35:01.096Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:35:01.463Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:35:04.409Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:35:04.826Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:35:08.716Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:35:09.090Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:35:21.037Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:35:21.414Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:35:22.344Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:35:22.704Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:35:27.841Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:35:28.203Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:35:29.949Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:35:30.371Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:35:42.831Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:35:43.198Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:35:44.508Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:35:44.942Z"}
+{"message":"Cast to ObjectId failed for value \"date\" at path \"_id\" for model \"Receipt\"","stack":"CastError: Cast to ObjectId failed for value \"date\" at path \"_id\" for model \"Receipt\"\n    at new CastError (E:\\dhruvback\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.SchemaType.applySetters (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.SchemaType._castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.SchemaType.castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.SchemaType.castForQueryWrapper (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Query._castConditions (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\dhruvback\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at E:\\dhruvback\\node_modules\\mongoose\\node_modules\\kareem\\index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"CastError","stringValue":"\"date\"","kind":"ObjectId","value":"date","path":"_id","level":"error","timestamp":"2020-10-20T13:37:04.287Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:39:12.393Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:39:12.838Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:39:14.847Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:39:15.236Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:39:16.366Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:39:16.781Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:39:21.786Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:39:22.185Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:39:36.115Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:39:36.487Z"}
+{"message":"Cast to ObjectId failed for value \"date\" at path \"_id\" for model \"Receipt\"","stack":"CastError: Cast to ObjectId failed for value \"date\" at path \"_id\" for model \"Receipt\"\n    at new CastError (E:\\dhruvback\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.SchemaType.applySetters (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.SchemaType._castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.SchemaType.castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.SchemaType.castForQueryWrapper (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Query._castConditions (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\dhruvback\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at E:\\dhruvback\\node_modules\\mongoose\\node_modules\\kareem\\index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"CastError","stringValue":"\"date\"","kind":"ObjectId","value":"date","path":"_id","level":"error","timestamp":"2020-10-20T13:39:45.753Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:42:21.847Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:42:22.242Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:42:30.726Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:42:31.136Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:42:33.302Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:42:33.689Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:42:36.580Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:42:36.974Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:42:43.063Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:42:43.457Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:42:49.733Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:42:50.117Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:42:53.766Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:42:54.183Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:42:57.836Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:42:58.227Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:43:27.818Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:43:28.192Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:43:33.975Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:43:34.335Z"}
+{"message":"Cast to ObjectId failed for value \"date\" at path \"_id\" for model \"Receipt\"","stack":"CastError: Cast to ObjectId failed for value \"date\" at path \"_id\" for model \"Receipt\"\n    at new CastError (E:\\dhruvback\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.SchemaType.applySetters (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.SchemaType._castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.SchemaType.castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.SchemaType.castForQueryWrapper (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Query._castConditions (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\dhruvback\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at E:\\dhruvback\\node_modules\\mongoose\\node_modules\\kareem\\index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"CastError","stringValue":"\"date\"","kind":"ObjectId","value":"date","path":"_id","level":"error","timestamp":"2020-10-20T13:43:45.570Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:48:27.354Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:48:29.943Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:48:30.376Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:48:36.786Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:48:37.220Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:48:38.246Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:48:38.604Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:48:42.815Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:48:43.159Z"}
+{"message":"Cast to ObjectId failed for value \"date\" at path \"_id\" for model \"Receipt\"","stack":"CastError: Cast to ObjectId failed for value \"date\" at path \"_id\" for model \"Receipt\"\n    at new CastError (E:\\dhruvback\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.SchemaType.applySetters (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.SchemaType._castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.SchemaType.castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.SchemaType.castForQueryWrapper (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Query._castConditions (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\dhruvback\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at E:\\dhruvback\\node_modules\\mongoose\\node_modules\\kareem\\index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"CastError","stringValue":"\"date\"","kind":"ObjectId","value":"date","path":"_id","level":"error","timestamp":"2020-10-20T13:48:47.914Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:50:52.853Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:50:53.256Z"}
+{"message":"Cast to ObjectId failed for value \"dates\" at path \"_id\" for model \"Receipt\"","stack":"CastError: Cast to ObjectId failed for value \"dates\" at path \"_id\" for model \"Receipt\"\n    at new CastError (E:\\dhruvback\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.SchemaType.applySetters (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.SchemaType._castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.SchemaType.castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.SchemaType.castForQueryWrapper (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Query._castConditions (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\dhruvback\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at E:\\dhruvback\\node_modules\\mongoose\\node_modules\\kareem\\index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"CastError","stringValue":"\"dates\"","kind":"ObjectId","value":"dates","path":"_id","level":"error","timestamp":"2020-10-20T13:51:01.761Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:52:16.025Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:52:17.714Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:52:18.117Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:52:21.022Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:52:21.434Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:52:27.784Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:52:28.204Z"}
+{"message":"Cast to ObjectId failed for value \"dates\" at path \"_id\" for model \"Receipt\"","stack":"CastError: Cast to ObjectId failed for value \"dates\" at path \"_id\" for model \"Receipt\"\n    at new CastError (E:\\dhruvback\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.SchemaType.applySetters (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.SchemaType._castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.SchemaType.castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.SchemaType.castForQueryWrapper (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Query._castConditions (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\dhruvback\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at E:\\dhruvback\\node_modules\\mongoose\\node_modules\\kareem\\index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"CastError","stringValue":"\"dates\"","kind":"ObjectId","value":"dates","path":"_id","level":"error","timestamp":"2020-10-20T13:52:30.072Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:53:35.056Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:53:35.429Z"}
+{"message":"Cast to ObjectId failed for value \"dates\" at path \"_id\" for model \"Receipt\"","stack":"CastError: Cast to ObjectId failed for value \"dates\" at path \"_id\" for model \"Receipt\"\n    at new CastError (E:\\dhruvback\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.SchemaType.applySetters (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.SchemaType._castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.SchemaType.castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.SchemaType.castForQueryWrapper (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Query._castConditions (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\dhruvback\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at E:\\dhruvback\\node_modules\\mongoose\\node_modules\\kareem\\index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"CastError","stringValue":"\"dates\"","kind":"ObjectId","value":"dates","path":"_id","level":"error","timestamp":"2020-10-20T13:53:38.503Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:54:22.321Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:54:22.712Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T13:56:07.244Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T13:56:07.671Z"}
+{"message":"Cast to ObjectId failed for value \"dates\" at path \"_id\" for model \"Receipt\"","stack":"CastError: Cast to ObjectId failed for value \"dates\" at path \"_id\" for model \"Receipt\"\n    at new CastError (E:\\dhruvback\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.SchemaType.applySetters (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.SchemaType._castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.SchemaType.castForQuery (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.SchemaType.castForQueryWrapper (E:\\dhruvback\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Query.cast (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Query._castConditions (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (E:\\dhruvback\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\dhruvback\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at E:\\dhruvback\\node_modules\\mongoose\\node_modules\\kareem\\index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","name":"CastError","stringValue":"\"dates\"","kind":"ObjectId","value":"dates","path":"_id","level":"error","timestamp":"2020-10-20T13:56:11.689Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:08:49.884Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:08:50.337Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:09:19.350Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:09:19.736Z"}
+{"message":"req.body.sdate.toISOString is not a function","stack":"TypeError: req.body.sdate.toISOString is not a function\n    at E:\\dhruvback\\routes\\receipt.js:136:38\n    at E:\\dhruvback\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\dhruvback\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\dhruvback\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\dhruvback\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at E:\\dhruvback\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\dhruvback\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at E:\\dhruvback\\node_modules\\express-async-errors\\index.js:17:20\n    at Layer.handle [as handle_request] (E:\\dhruvback\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\dhruvback\\node_modules\\express\\lib\\router\\index.js:284:7","level":"error","timestamp":"2020-10-20T14:09:26.445Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:11:05.529Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:11:05.935Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:11:11.382Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:11:11.758Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:11:53.132Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:11:53.562Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:11:56.480Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:11:56.850Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:12:14.164Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:12:14.545Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:12:19.526Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:12:19.923Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:12:49.056Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:12:49.479Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:12:53.704Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:12:54.072Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:14:54.434Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:14:54.864Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:14:57.380Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:14:57.772Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:15:05.328Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:15:05.735Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:15:07.715Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:15:08.107Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:15:12.383Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:15:12.780Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:15:17.790Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:15:18.182Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:15:52.469Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:15:52.915Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:16:18.318Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:16:18.668Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:16:36.417Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:16:36.796Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:16:45.345Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:16:45.723Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:18:03.280Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:18:03.673Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:18:04.820Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:18:05.198Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:20:51.223Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:20:51.608Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:21:21.624Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:21:22.064Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:21:32.204Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:21:32.602Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:21:45.576Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:21:45.984Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:21:49.251Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:21:49.678Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:00.042Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:22:00.420Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:03.551Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:22:03.928Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:10.129Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:22:10.532Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:19.747Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:22:20.149Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:26.151Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:22:26.564Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:36.451Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:22:36.808Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:40.636Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:22:41.069Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:45.382Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:46.584Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:22:46.982Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:48.009Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:22:48.377Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:51.023Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:22:51.367Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:22:58.060Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:22:58.452Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:23:03.390Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:23:05.334Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:23:05.714Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:23:13.776Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:23:14.976Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:23:15.330Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:23:21.317Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:23:21.707Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:23:29.363Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:23:29.767Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:23:41.845Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:23:42.269Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:23:45.807Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:23:46.143Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:23:49.870Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:23:50.246Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:23:56.993Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:23:57.371Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:24:25.475Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:24:25.843Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:24:34.498Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:24:34.884Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:24:42.041Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:24:42.438Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:24:53.281Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:24:53.682Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:24:54.870Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:24:55.305Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:25:00.387Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:25:00.789Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:25:08.057Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:25:08.424Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:25:15.278Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:25:15.669Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:25:26.813Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:25:27.225Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:25:36.651Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:25:37.102Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:25:39.027Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:25:39.390Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:25:41.227Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:25:41.619Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:25:46.917Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:25:47.316Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:25:58.888Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:25:59.259Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:26:02.995Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:26:03.343Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:26:08.139Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:26:08.519Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-20T14:26:10.015Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-20T14:26:10.415Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T13:44:44.775Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T13:44:45.287Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T16:44:59.933Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T16:45:00.855Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T16:45:27.588Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T16:45:28.014Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T16:45:31.534Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T16:45:31.906Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T16:45:36.018Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T16:45:36.415Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T16:45:39.729Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T16:45:40.085Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T16:59:17.996Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T16:59:18.405Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:14:48.247Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:14:48.992Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:15:29.099Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:15:46.774Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:15:47.167Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:16:12.095Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:16:12.485Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:16:17.709Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:16:18.097Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:18:30.236Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:18:30.669Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:21:19.330Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:21:19.684Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:22:48.545Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:22:49.728Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:22:50.108Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:22:52.358Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:22:52.709Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:23:47.552Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:23:47.919Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:23:50.137Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:23:50.540Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:24:40.939Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:24:41.300Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:24:47.049Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:24:47.425Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:25:40.699Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:25:42.138Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:25:42.493Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:25:43.940Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:25:44.322Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:26:30.915Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:26:31.297Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:26:35.646Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:26:36.046Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:27:20.776Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:27:21.290Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:34:30.695Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:34:31.098Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:34:33.272Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:34:33.615Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:34:36.642Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:34:37.038Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:34:39.900Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:34:40.288Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:34:42.757Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:34:43.161Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:34:46.242Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:34:46.647Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:34:51.950Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:34:52.339Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:34:56.163Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:34:56.535Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:35:30.058Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:35:30.410Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:43:33.129Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:43:33.587Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:46:59.497Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:46:59.908Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:47:52.322Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:47:52.676Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:48:59.375Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:48:59.769Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:49:05.132Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:49:05.569Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:49:07.766Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:49:08.179Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:49:10.471Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:49:10.872Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:49:11.956Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:49:12.348Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:49:14.807Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:49:15.180Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:57:28.057Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:57:28.481Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T17:57:32.514Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T17:57:32.858Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-10-21T18:13:51.267Z"}
+{"level":"info","message":"Connected to mongodb+srv://rt:spcekota@cluster0.g3fiq.mongodb.net/dhruvinfra?retryWrites=true&w=majority...","timestamp":"2020-10-21T18:13:51.661Z"}

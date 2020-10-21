@@ -107,21 +107,40 @@ router.post('/', async (req, res) => {
   router.delete('/:recno', async (req, res) => {
     let incentive = await Incentive.find({recno: req.params.recno, status:'Paid'});
     if (incentive) return res.status(404).send('The Incentive of this receipt is already Paid. Cannot Delete');
-    const receipt = await Receipt.findAndRemove(req.params.recno);
+    const receipt = await Receipt.findAndRemove({recno: req.params.recno});
     if (!receipt) return res.status(404).send('The receipt with the given ID was not found.');
-    incentive = await Receipt.findAndRemove({recno: req.params.recno});
+    incentive = await Incentive.findAndRemove({recno: req.params.recno});
     
     res.send(receipt);
   });
   
   
-  router.get('/:id', async (req, res) => {
-    const customer = await Customer.findById(req.params.id);
   
-    if (!customer) return res.status(404).send('The customer with the given ID was not found.');
+  router.get('/user/:uid', async (req, res) => {
+    const receipts = await Receipt.find({userid: req.params.uid}).sort({date:1});
   
-    res.send(customer);
+    if (!receipts) return res.status(404).send('The receipts of this user was not found.');
+  
+    res.send(receipts);
   });
 
+  router.get('/dates', async (req, res) => {
+    var d1 = new Date(req.body.sdate);
+    var d2 = new Date(req.body.edate);
 
+    const receipts = await Receipt.find({date: {$gte: d1, $lte: d2}})
+    .sort({date:1, recno:1});
+  
+    if (!receipts) return res.status(404).send('The receipts of this date range was not found.');
+  
+    res.send(receipts);
+  });
+
+  router.get('/:id', async (req, res) => {
+    const receipt = await Receipt.findById(req.params.id);
+  
+    if (!receipt) return res.status(404).send('The receipt with the given ID was not found.');
+  
+    res.send(receipt);
+  }); 
 module.exports = router; 
