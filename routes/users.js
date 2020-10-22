@@ -4,13 +4,14 @@ const _ = require('lodash');
 const {User, validate, validateUserPut} = require('../models/user');
 const express = require('express');
 const router = express.Router();
+const arraytotree = require('array-to-tree');
 
 router.get('/me', auth, async (req, res) => {
   const user = await User.findById(req.user._id).select('-password');
   res.send(user);
 });
 /**/
-router.get('/tree:uid',  async (req, res) => {
+router.get('/tree/:uid',  async (req, res) => {
   const user = User.aggregate([
      {$match: { userid: req.params.uid }},
      {$graphLookup:{
@@ -21,7 +22,11 @@ router.get('/tree:uid',  async (req, res) => {
        as: 'connections'
      }}]).exec((err, user) => {
       if (err) throw err;
-      res.send(user);
+     
+    const connections = user[0].connections;
+    const usertree = arraytotree(connections, {parentProperty: 'sponsorid', customID: 'userid'});
+
+    res.send(usertree);
   });
 
  
