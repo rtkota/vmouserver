@@ -68,15 +68,20 @@ router.put('/:id', async (req, res) => {
     res.send(incentives);
   });
 
-  router.get('/dates', async (req, res) => {
-    var d1 = new Date(req.body.sdate);
-    var d2 = new Date(req.body.edate);
-
-    const incentives = await Incentive.find({date: {$gte: d1, $lte: d2}})
+  router.post('/dates/:uid', async (req, res) => {
+    var d1 = new Date(req.body.sdt);
+    var d2 = new Date(req.body.edt);
+    var uid = req.params.uid;
+    
+    let incentives = await Incentive.find({userid:uid, date: {$gte: d1, $lte: d2}})
     .sort({date:1, recno:1});
   
     if (!incentives) return res.status(404).send('The incentives of this date range was not found.');
-  
+    
+    inccentives.map(i => (
+      i.set('date1', i.date.toISOString().slice(0,10), { strict: false })
+    ))
+    
     res.send(incentives);
   });
   

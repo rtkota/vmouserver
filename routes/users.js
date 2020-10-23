@@ -26,14 +26,14 @@ router.get('/tree/:uid',  async (req, res) => {
     let nodes = user[0].nodes;
     for (var i = 0; i < nodes.length; i++) {
       var o = nodes[i];
-      o.text = o.userid;
+      o.text = o.username+"("+o.userid+")";
       o.icon= "glyphicon glyphicon-stop";
       o.color= "#000000";
       o.backColor= "#FFFFFF";
     }
 
     const usertree = arraytotree(nodes, {childrenProperty: 'nodes', parentProperty: 'sponsorid', customID: 'userid'});
-    user[0].text=user[0].userid;
+    user[0].text=user[0].username+"("+user[0].userid+")";
     user[0].nodes = usertree;
     res.send(user);
   });

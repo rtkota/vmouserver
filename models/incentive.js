@@ -40,8 +40,8 @@ const Incentive = mongoose.model('Incentive', new mongoose.Schema({
   },
   paydate: {
       type: Date
-  }
-}));
+  } 
+},{ strict: false}));
 
 function validateIncentive(incentive) {
   const schema = {
