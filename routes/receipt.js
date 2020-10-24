@@ -50,7 +50,7 @@ router.post('/', async (req, res) => {
     if (!user) return;
     
     if (incobj.itype === 'Direct') 
-      gross = incobj.amt*.5;
+      gross = incobj.amt*.05;
     else
     {
       let query = {"level":incobj.planlevel};

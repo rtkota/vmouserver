@@ -78,7 +78,7 @@ router.put('/:id', async (req, res) => {
   
     if (!incentives) return res.status(404).send('The incentives of this date range was not found.');
     
-    inccentives.map(i => (
+    incentives.map(i => (
       i.set('date1', i.date.toISOString().slice(0,10), { strict: false })
     ))
     
