@@ -8,7 +8,7 @@ const {User} = require('../models/user');
 const express = require('express');
 const router = express.Router();
 
-router.post('/', async (req, res) => {
+router.post('/', [auth], async (req, res) => {
     const { error } = validate(req.body); 
     if (error) return res.status(400).send(error.details[0].message);
     
@@ -87,7 +87,7 @@ router.post('/', async (req, res) => {
                                                                                                
                                                                    
   
-  router.put('/', async (req, res) => {
+  router.put('/', [auth],async (req, res) => {
     const { error } = validate(req.body); 
     if (error) return res.status(400).send(error.details[0].message);
   
@@ -104,7 +104,7 @@ router.post('/', async (req, res) => {
     res.send(receipt);
   });
   
-  router.delete('/:recno', async (req, res) => {
+  router.delete('/:recno', [auth],async (req, res) => {
     let incentive = await Incentive.find({recno: req.params.recno, status:'Paid'});
     if (incentive) return res.status(404).send('The Incentive of this receipt is already Paid. Cannot Delete');
     const receipt = await Receipt.findAndRemove({recno: req.params.recno});
@@ -113,30 +113,32 @@ router.post('/', async (req, res) => {
     
     res.send(receipt);
   });
-  
-  
-  
-  router.get('/user/:uid', async (req, res) => {
+ 
+  router.get('/user/:uid',[auth], async (req, res) => {
     const receipts = await Receipt.find({userid: req.params.uid}).sort({date:1});
   
     if (!receipts) return res.status(404).send('The receipts of this user was not found.');
-  
+    receipts.map(i => (
+      i.set('date1', i.date.toISOString().slice(0,10), { strict: false })
+    ))
     res.send(receipts);
   });
 
-  router.get('/dates', async (req, res) => {
-    var d1 = new Date(req.body.sdate);
-    var d2 = new Date(req.body.edate);
+  router.post('/all', [auth],async (req, res) => {
+    var d1 = new Date(req.body.sdt);
+    var d2 = new Date(req.body.edt);
 
     const receipts = await Receipt.find({date: {$gte: d1, $lte: d2}})
     .sort({date:1, recno:1});
   
     if (!receipts) return res.status(404).send('The receipts of this date range was not found.');
-  
+    receipts.map(i => (
+      i.set('date1', i.date.toISOString().slice(0,10), { strict: false })
+    ))
     res.send(receipts);
   });
 
-  router.get('/:id', async (req, res) => {
+  router.get('/:id', [auth],async (req, res) => {
     const receipt = await Receipt.findById(req.params.id);
   
     if (!receipt) return res.status(404).send('The receipt with the given ID was not found.');

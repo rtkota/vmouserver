@@ -12,8 +12,7 @@ const Receipt = mongoose.model('Receipt', new mongoose.Schema({
   },
   date: {
     type: Date,
-    required: true,
-    default: Date.now
+    required: true
   },
   amt: {
     type: Number,
