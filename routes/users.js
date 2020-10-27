@@ -19,23 +19,26 @@ router.get('/tree/:uid', [auth], async (req, res) => {
        startWith: '$userid',
        connectFromField: 'userid', 
        connectToField: 'sponsorid',
-       as: 'nodes'
+       as: 'children'
      }}]).exec((err, user) => {
       if (err) throw err;
      
-    let nodes = user[0].nodes;
+    let nodes = user[0].children;
+    
     for (var i = 0; i < nodes.length; i++) {
       var o = nodes[i];
-      o.text =o.userid;
+      o.label =o.userid+"-"+o.username;
       o.icon= "glyphicon glyphicon-stop";
-      o.color= "#000000";
+   
+      if (o.children)
+        o.expanded = true;
       o.backColor= "#FFFFFF";
     }
 
-    const usertree = arraytotree(nodes, {childrenProperty: 'nodes', parentProperty: 'sponsorid', customID: 'userid'});
-    user[0].text=user[0].userid;
-    user[0].nodes = usertree;
- 
+    const usertree = arraytotree(nodes, {childrenProperty: 'children', parentProperty: 'sponsorid', customID: 'userid'});
+    user[0].label=user[0].userid+"-"+user[0].username;
+    user[0].children = usertree;
+    user[0].expanded = true;
     res.send(user);
   });
 
