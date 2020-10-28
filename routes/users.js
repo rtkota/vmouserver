@@ -30,10 +30,14 @@ router.get('/tree/:uid', [auth], async (req, res) => {
       o.label =o.userid+"-"+o.username;
       o.icon= "glyphicon glyphicon-stop";
    
+
+      
       if (o.children)
         o.expanded = true;
       o.backColor= "#FFFFFF";
     }
+
+
 
     const usertree = arraytotree(nodes, {childrenProperty: 'children', parentProperty: 'sponsorid', customID: 'userid'});
     user[0].label=user[0].userid+"-"+user[0].username;
